@@ -1,4 +1,4 @@
-Front Page de la Resolucion
+Trabajo Práctico #0 – "Hello, World!" en C
 
 gcc.exe (Rev3, Built by MSYS2 project) 13.2.0
 Copyright (C) 2023 Free Software Foundation, Inc.
